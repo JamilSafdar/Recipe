@@ -1,0 +1,30 @@
+header
+{
+    background: green;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;    
+}
+header.logo a{
+    background-image: url("Recipe/tea.jpeg");
+    background-color: brown;
+    display: inline-block;
+}
+ul nav
+{
+    text-align: right;
+    display: inline-block;
+}
+
+section.ingredients{
+    background-image: url("images/GB.jpeg");
+}
+
+footer
+{
+    background: green;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+
+}
